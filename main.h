@@ -3,6 +3,7 @@
 
 #include <stdlib.h>
 #include <stdarg.h>
+#include <unistd.h>
 
 /**
  * struct flags - struct containing flags to "turn on"
